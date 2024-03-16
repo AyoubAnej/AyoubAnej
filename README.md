@@ -16,7 +16,7 @@ Hello there! I'm Anejdam Ayoub, a passionate student on the exciting journey to 
 - 🔧 Building a strong foundation for future software engineering endeavors.
   
 
-- 🔭 I’m currently working on **a ride-hailing app, application that allows users to book on-demand transportation services.**
+- 🔭 I’m currently working on **a ride-sharing app, application that allows users to book on-demand transportation services.**
 
 - 🌱 I’m currently learning **Spring boot, React.js and React native**
 
